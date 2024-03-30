@@ -1,4 +1,4 @@
-# Custom DataDog Agents Images Configured for speific use cases
+# Custom DataDog Agents Docker Build Specifications Configured with Integrations Targetting Specific Use Cases
 
 The custom dd-agents custom configurations were added to the custom-dd-agents folder.
 It is DockerFiles where the scoped integration libraries are copied into the image plus the corresponding configurations.
